@@ -89,7 +89,7 @@ StarDao leverages modern web technologies to deliver a seamless user experience:
 
 ## License
 
-© 2024 StarDao. All rights reserved.
+© 2025 StarDao. All rights reserved.
 
 ---
 
