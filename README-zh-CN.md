@@ -65,7 +65,7 @@ StarDao 利用现代网络技术提供流畅的用户体验：
 ### 命理引擎
 
 - **命盘计算**：基于传统方法的自定义算法
-- **渲染**：react-iztro 可视化
+- **渲染**：[react-iztro](https://github.com/SylarLong/iztro) 可视化
 - **分析**：专有解读引擎
 
 ### 开发运维

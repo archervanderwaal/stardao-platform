@@ -65,7 +65,7 @@ StarDao leverages modern web technologies to deliver a seamless user experience:
 ### Astrological Engine
 
 - **Chart Calculation**: Custom algorithms based on traditional methods
-- **Rendering**: react-iztro for visualization
+- **Rendering**: [react-iztro](https://github.com/SylarLong/iztro) for visualization
 - **Analysis**: Proprietary interpretation engine
 
 ### DevOps
